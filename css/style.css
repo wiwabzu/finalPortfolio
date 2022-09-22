@@ -18,3 +18,9 @@
     margin-top: 25px;
 }
 
+.carousel-caption p{
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
