@@ -50,6 +50,28 @@
 }
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover{
+    color: darkorange;
+
+}
+/*  this f!@@#$% navbarlink didnt work fu@#$ */
+/* .navbar-light .navbar-nav .navbar-link{
     color: #fff;
-    
+}
+.navbar-light .navbar-nav .navbar-link:focus,
+.navbar-light .navbar-nav .navbar-link:hover{
+    color: #fff;
+} */
+
+.navbar ul li a{
+    color: #fff;
+}
+
+.navbar ul li a:hover{
+    color: darkorange;
+}
+
+
+
+.w-100{
+    height: 100vh;
 }
