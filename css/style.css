@@ -24,3 +24,13 @@
     font-size: 18px;
     line-height: 1.9;
 }
+/* learn more */
+.carousel-caption a{
+    text-transform: uppercase;
+    text-decoration: none;
+    background: darkorange;
+    padding: 10px 30px;
+    color: #000;
+    margin-top: 15px;
+
+}
