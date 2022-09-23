@@ -1,0 +1,21 @@
+*{
+    font-family: 'Montserrat';
+}
+.bg-light{
+    background-color: transparent !important;
+}
+/* My logo Brand */
+.navbar-light .navbar-brand{
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.navbar ul li a{
+    color: #fff;
+}
+
+.navbar ul li a:hover{
+    color: darkorange;
+}
