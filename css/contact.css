@@ -31,3 +31,9 @@
         background: rgba(0, 0, 0, 0.5);
     }
 } */
+.bg-image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
