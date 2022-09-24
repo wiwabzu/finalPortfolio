@@ -5,7 +5,7 @@
     background-color: transparent !important;
 }
 /* My logo Brand */
-.navbar-dark .navbar-brand{
+.navbar-light .navbar-brand{
     color: #fff;
     font-size: 25px;
     text-transform: uppercase;
