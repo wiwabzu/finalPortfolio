@@ -4,6 +4,11 @@
 .bg-light{
     background-color: transparent !important;
 }
+.navbar-nav a{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
 /* My logo Brand */
 .navbar-light .navbar-brand{
     color: #fff;
@@ -36,8 +41,3 @@ p{
     color: rgb(255, 255, 255);  
 }
 
-.navbar-nav a{
-    font-size: 18px;
-    text-transform: uppercase;
-    font-weight: 500;
-}
