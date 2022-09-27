@@ -9,8 +9,9 @@
     min-height: 300px;
 }
 .carousel-caption{
-    bottom: 220px;
+    bottom: 350px;
 }
+
 .carousel-caption h5{
     font-size: 45px;
     text-transform: uppercase;
@@ -22,7 +23,7 @@
     width: 60%;
     margin: auto;
     font-size: 18px;
-    line-height: 1.9;
+    line-height: 3;
 }
 /* learn more */
 .carousel-caption a{
@@ -32,6 +33,7 @@
     padding: 10px 30px;
     color: #000;
     margin-top: 15px;
+    
 
 }
 .navbar-nav a{
