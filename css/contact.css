@@ -49,3 +49,8 @@
     left: .5rem;
     padding-left: 3.5rem;
 }
+.icon-textarea {
+    position: absolute;
+    top: 1.8rem;
+    left: 1rem;
+}
